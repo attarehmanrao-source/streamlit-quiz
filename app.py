@@ -20,3 +20,5 @@ if q2 == "1947":
                 st.warning("please donon sawalon ka jawab den")
             else:
                 st.success(f"aap ka score: {score} / 2")
+                
+    st.write("quiz end")
